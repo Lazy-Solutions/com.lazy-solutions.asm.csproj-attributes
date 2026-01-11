@@ -1,6 +1,6 @@
 # ASM csproj attributes
 
-This package provides a small set of **assembly-level attributes** that can be used to inject fragments into the **generated `.csproj` files** in Unity.
+This upm package provides a small set of **assembly-level attributes** that can be used to inject fragments into the **generated `.csproj` files** in Unity.
 
 It is intended for **build- and tooling-related metadata**, not runtime behavior.
 
