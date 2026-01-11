@@ -1,0 +1,12 @@
+{
+  "name": "com.lazy-solutions.asm.csproj-attributes",
+  "version": "1.0.0",
+  "displayName": "Advanced Scene Manager - csproj attributes",
+  "description": "Provides a few useful assembly attributes for injecting csproj fragments.",
+  "samples": [],
+  "author": {
+    "name": "Lazy Solutions",
+    "url": "https://github.com/Lazy-Solutions/AdvancedSceneManager/tree/main",
+    "email": "nuwn@hotmail.com"
+  }
+}
